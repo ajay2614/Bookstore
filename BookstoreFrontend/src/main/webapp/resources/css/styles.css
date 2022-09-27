@@ -1,0 +1,303 @@
+@charset "ISO-8859-1";
+#login{
+	background-color:#343148FF;
+	margin-top:100px;
+	border:2px solid black;
+	margin-bottom:100px;
+	color:#D7C49EFF;
+}
+
+#lh1{
+	margin-bottom:20px;
+	margin-top:0px;
+	align:center;
+	border-bottom: 2px solid;
+	margin-left:-15px;
+	margin-right:-15px;
+	text-align:;
+}
+#loh1{
+	margin-left:20px;
+}
+
+#btnl{
+	margin-top:15px;
+	margin-bottom:15px;
+	padding-left:18px;
+	padding-right:18px;
+}
+
+#loginbody{
+	border:2px solid black;
+	margin-left:2px;
+	margin-right:2px;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #FAF0E6;
+}
+.hf{
+	padding-top:50px;
+	background-color:#243665;
+	border-bottom:2px solid black;
+}
+
+#logout2{
+	margin-top:10px;
+	text-align:right;
+}
+#logout3{
+	margin-top:10px;
+	text-align:right;
+}
+#refreshid{
+	position:absolute;
+	margin-top:115px;
+}
+#refresh{
+	margin-left:960px;
+	padding-left:50px;
+	padding-right:50px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#result{
+	position:absolute;
+	margin-left:1080px;
+	margin-top:6px;
+}
+#lgsbody{
+	border:2px solid black;
+	background-color:#FAF0E6;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#outputbody{
+	border:2px solid black;
+	background-color:#FAF0E6;
+	font-family: Arial, Helvetica, sans-serif;
+	
+	min-height:100vh;
+	display:flex;
+	flex-direction:column;
+}
+#logou{
+	margin-right:10px;
+}
+#logou2{
+	margin-right:10px;
+}
+#headings{
+	margin-top:0px;
+	text-align:center;
+}
+#div4{
+	margin-top:20px;
+	text-align:center;
+}
+#hb{
+	font-weight: bold;
+}
+#headh2{
+	
+}
+#headh4{
+	padding-top:5px;
+	padding-bottom:5px;
+}
+#div1{
+	width:48.5%;
+	border:2px solid black;
+	margin-left:320px;
+	text-align:center;
+	background-color:#F5F5F5;
+	margin-top:20px;
+}
+#heading2{
+	margin-top:20px;
+	width:48.5%;
+	text-align:center;
+	background-color:black;
+	margin-left:320px;
+	border-left:2px solid black;
+	border-right:2px solid black;
+	border-top:2px solid black;
+	margin-bottom:-8px;
+	color:#FFD700;
+}
+#inputId{
+	margin-left:270px;
+	margin-right:100px;
+}
+#inputName{
+	margin-left:270px;
+	margin-right:100px;
+}
+#inputbookauthor{
+	margin-left:270px;
+	margin-right:100px;
+	padding-left:93px;
+	padding-right:93px;
+	margin-top:4px;
+	padding-bottom:4px;
+	padding-top:4px;
+}
+#inputPreference{
+	margin-left:270px;
+	margin-right:100px;
+}
+#inputBookDate{
+	margin-left:270px;
+	margin-right:100px;
+}
+#bookdidlabel{
+	position:absolute;
+	margin-top:10px;
+	margin-left:100px;
+}
+#booknamelabel{
+	margin-top:10px;
+	position:absolute;
+	margin-left:100px;
+}
+#bookauthorlabel{
+	margin-top:10px;
+	position:absolute;
+	margin-left:100px;
+}
+#bookdatelabel{
+	margin-top:10px;
+	position:absolute;
+	margin-left:100px;
+}
+#color{
+	margin-top:40px;
+	margin-bottom:20px;
+}
+#gender{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+#size{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+#btnls{
+	margin-top:20px;
+	margin-bottom:15px;
+	margin-left:24px;
+}
+footer{
+    background: #243665;
+    color: #8BD8BD;
+    padding:0.1em;
+    margin-top: auto;
+    text-align: center;
+    border-top:2px solid black;
+}
+.table{
+    table-layout: fixed;
+    width: 90%;
+    float: center;
+    margin-right: -30px;
+    margin-left: 5px;
+    border: 2px solid black;
+}
+.table th{
+    word-wrap: break-word;
+    background-color: #343148FF;
+    color:#D7C49EFF;
+    text-align: center;
+    border: 2px solid black;
+}
+.table td{
+    border: 2px solid black;
+    word-wrap: break-word;
+    background-color:#F5F5F5;
+}
+#div5{
+	margin-top:20px;
+	margin-left:100px;
+}
+#footer{
+    background-color:#243665;
+    color: ;
+    padding:0.1em;
+    margin-top: 43px;
+    text-align: center;
+}
+#slider{
+	text-align:center;
+}
+#mov1{
+	margin-bottom:5px;
+	margin-left:0px;
+	margin-top:-10px;
+	color:red;
+	font-style:italic;
+}
+#mov2{
+	margin-bottom:-5px;
+	margin-left:71px;
+	margin-top:-5px;
+	font-size:15px;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+#mov3{
+	margin-bottom:-5px;
+	margin-left:107px;
+	margin-top:-5px;
+	font-size:15px;
+	font-family: "Lucida Console", "Courier New", monospace;
+
+}
+#mov4{
+	margin-bottom:-5px;
+	margin-left:70px;
+	margin-top:-5px;
+	font-size:15px;
+	font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+#lus{
+	margin-top:30px;
+	margin-left:50px;
+	position:absolute;
+}
+#lus1{
+	position:absolute;
+	margin-top:100px;
+	margin-left:50px;
+}
+#lus2{
+	position:absolute;
+	margin-top:160px;
+	margin-left:47px;
+	padding-left:10px;
+	padding-right:10px;
+}
+#div3{
+	height:300px;
+}
+#editid{
+	padding-right:25px;
+	text-align:center;
+	padding-left:25px;
+}
+#deleteid{
+	padding-right:15px;
+	padding-left:15px;
+	position:absolute;
+	margin-left:100px;
+	margin-top:-38px;
+	text-align:right;
+}
+#bookid{
+	margin-top:30px;
+}
+
+#cancelbtn{
+	position:abolsute;
+	margin-left:730px;
+	margin-top:-99px;
+	padding-left:20px;
+	padding-right:20px;
+}
